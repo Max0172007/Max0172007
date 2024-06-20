@@ -1,7 +1,7 @@
 ### Boas vindas ao meu perfil 💙💙
 Meu nome é Max
 
-Estou estudando na ![https://www.alura.com.br/]
+Estou estudando na [alura](https://www.alura.com.br/)
 
 
 Estou me desenvolvendo na linguagem JavaScript
